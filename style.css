@@ -46,7 +46,7 @@ nav{
     margin-right: 150px;
 }
 .banner{
-    background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+    background-image: url(../gamer-jone-repo/images/Group\ 14.png);
 }
 .banner-title{
     margin: 150px;
@@ -169,9 +169,20 @@ nav{
     color: #FF42A5;
 }
 
-.footer{
+footer{
     background: #0B0223;
+    height: 400px;
+
 }
+.footer{
+    
+}
+.footer-menu ul{
+    list-style: none;
+    display: flex;
+    color: #fff;
+}
+
 
 
 @media screen and (max-width: 576px) {
