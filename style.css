@@ -133,11 +133,16 @@ nav{
 }
 .play-title{
     font-size: 40px;
-}  
+} 
+.play-title span{
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 .play-pra{
     margin: 20px;
 }
-
 .icone{
     display: flex;
     border-radius: 30px;
