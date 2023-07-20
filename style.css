@@ -91,12 +91,12 @@ nav{
 .online-photo{
     width: 280px;
 }
-.img-2{
+/* .img-2{
     width: 50px;
     position: relative;
     bottom: 150px;
     right: 175px;
-}
+} */
 .online-images{
     display: flex;
     justify-content: space-around;
